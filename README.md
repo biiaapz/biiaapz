@@ -69,7 +69,7 @@
   <h2>:mailbox: Como chegar até mim:</h2>
   <a href="https://docs.microsoft.com/pt-br/users/FelipeTadeu-8432/achievements" target="_blank"><img src="https://img.shields.io/badge/microsoft-%231877F2.svg?&style=for-the-badge&logo=microsoft&color=00a4ef" target="_blank"></a> 
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipe.tadeusantos1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:beatrizapsilva0302@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-tadeu-3a49b5134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
