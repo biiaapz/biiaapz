@@ -9,7 +9,7 @@
 <div>
 <p>Design,Multimider</p> 
 
-<p>Atualmente estou no curso tecnico de  Multimídia, na escola Senai de Informatica.</p>
+<p>Atualmente estou no curso tecnico de  Multimídia, na instituição SENAI de Informatica.</p>
 </div>
 
 <br>
