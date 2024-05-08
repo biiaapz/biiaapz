@@ -13,7 +13,6 @@
 </div>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biiaapz&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/biiaapz/github-readme-stats)
 
 <!--https://devicon.dev/-->
 <div style="display: inline_block"><br>
