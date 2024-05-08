@@ -9,7 +9,7 @@
 <div>
 <p>Design,Multimider</p> 
 
-<p>Atualmente sou Instrutor de Formação Profissional na Escola SENAI de Informática, atuando no curso Técnico em Multimídia e o Técnico em Jogos Digitais.</p>
+<p>Atualmente estou no curso tecnico de  Multimídia, na escola Senai de Informatica.</p>
 </div>
 
 <br>
