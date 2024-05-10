@@ -14,14 +14,6 @@
 
 <br>
 
-<!--https://devicon.dev/-->
-<div style="display: inline_block"><br>
- <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
-  
 
 </div>
 
@@ -31,11 +23,15 @@
 <div>
   
     <p>💻 Técnico em  Multimìdia - Escola Senai Paulo Antonio Skaf- São Caetano do Sul</p> 
-</div>
 
-<br>
-
-<div>
+<!--https://devicon.dev/-->
+<div style="display: inline_block"><br>
+ <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  
 
 
 <br>
