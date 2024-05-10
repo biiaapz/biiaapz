@@ -17,11 +17,10 @@
 
 </div>
 
-<div>
-  <a href="https://github.com/biiaapz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biiaapz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biiaapz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biiaapz&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/biiaapz/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biiaapz&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/biiaapz/github-readme-stats)
+  
 <br>
 
 <div>
