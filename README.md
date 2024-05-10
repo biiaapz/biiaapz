@@ -9,7 +9,7 @@
 <div>
 <p>Design,Multimider</p> 
 
-<p> Cursando tecnico em Multimídia, na instituição SENAI de Informatica.</p>
+<p> 💻 Cursando técnico em Multimídia, na instituição SENAI de Informatica.</p>
 </div>
 
 <br>
