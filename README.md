@@ -24,9 +24,9 @@
 <br>
 
 <div>
-  
-    <p>💻 Técnico em  Multimìdia - Escola Senai Paulo Antonio Skaf- São Caetano do Sul</p> 
-
+ <div>
+    💻 Técnico em  Multimìdia - Escola Senai Paulo Antonio Skaf- São Caetano do Sul
+<div>
 <!--https://devicon.dev/-->
 <div style="display: inline_block"><br>
  <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
